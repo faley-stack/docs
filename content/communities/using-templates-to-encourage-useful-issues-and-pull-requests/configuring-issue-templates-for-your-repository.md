@@ -1,11 +1,6 @@
 ---
 title: Configuring issue templates for your repository
-intro: You can customize the templates that are available for contributors to use when they open new issues in your repository.
-redirect_from:
-  - /github/building-a-strong-community/creating-issue-templates-for-your-repository
-  - /articles/configuring-issue-templates-for-your-repository
-  - /github/building-a-strong-community/configuring-issue-templates-for-your-repository
-versions:
+intro: You can customize the
   fpt: '*'
   ghes: '*'
   ghae: '*'
